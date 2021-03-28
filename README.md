@@ -1,7 +1,7 @@
 # C|MARA
 Certified | Malware And Reversing Analyst
 
-https://github.com/c14it0n/mara/blob/main/MARA.jpg
+https://raw.github.com/c14it0n/mara/blob/main/MARA.jpg
 
 ## What is MARA?
 
