@@ -3,16 +3,20 @@
 
 ![alt text](https://github.com/c14it0n/mara/blob/main/MARA.jpg?raw=true)
 
-## What is MARA?
+## ¿Que es MARA?
 
-MARA is the most complete malware analysis certification in Latin America. After investigating current certifications in the market, we build an index from the basic level to advanced topics. At the end of the certification course you will obtain knowledge and skills that will allow you to understand the structure of a malicious file and its behavior in different infection environments. As an analyst of malware you must resolve practical scenarios of analysis to active samples that are executed in the main operating systems. It does not matter if you are starting in the world of malware analysis and reversing or if you already have advanced knowledge, this certification course will test your skills and learn new perspectives to analyze malware.
+MARA es la certificación de análisis de malware más completa en América Latina. Después de estudiar las certificaciones mas importantes en el mercado, construimos un índice desde el nivel básico hasta los temas avanzados que abarcan todos los aspectos del análisis de Malware. 
+
+Al final del curso de certificación obtendrás conocimientos y habilidades que te permitirán comprender la estructura de un archivo malicioso y su comportamiento en diferentes entornos de infección. Como analista de malware, deberas resolver escenarios prácticos de análisis a muestras activas que se ejecutan en los principales sistemas operativos. 
+
+No importa si estas comenzando en el mundo del análisis de malware o si ya tiene conocimiento avanzados, este curso de certificación se pondrán a prueba tus habilidades y aprenderás nuevas perspectivas para analizar el malware.
 
 [![Python 3.x](https://img.shields.io/badge/Language-Python3-blue.svg)](https://www.python.org/)  ![Version](https://img.shields.io/badge/Version-Beta-green.svg) ![views](https://visitor-badge.laobi.icu/badge?page_id=c14it0n.mara&title=Visitor)
 
 
 ---
 
-# Table of Contents
+# Tabla de Contenidos
 
 ### 1.	Introducción
 - Historia y evolución del malware
@@ -136,6 +140,7 @@ MARA is the most complete malware analysis certification in Latin America. After
 - Actividades post incidente
 - El papel del analista de malware en un incidente
 ### 14.	Examen práctico C|MARA
-
+El examen práctico es obligatorio para obtener la certificación MARA.
+## [![alert-1.png](https://i.postimg.cc/kXryfM9b/alert-1.png)](https://postimg.cc/RqRf0BWS)  Próximamente más detalles acerca del examen [![alert-1.png](https://i.postimg.cc/kXryfM9b/alert-1.png)](https://postimg.cc/RqRf0BWS)
 
 
