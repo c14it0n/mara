@@ -139,7 +139,15 @@ No importa si estas comenzando en el mundo del análisis de malware o si ya tien
 - Ciber resiliencia  
 - Actividades post incidente
 - El papel del analista de malware en un incidente
-### 14.	Examen práctico C|MARA
+### 14. Informática forense aplicada
+- Metodologías aplicadas al análisis de malware
+- Creación de imágenes
+- Estructuras de memoria
+- Análisis de memoria volátil
+- Estructuras ocultas 
+- Búsqueda de información de procesos en memoria
+- Técnicas antiforense
+### 15.	Examen práctico C|MARA
 El examen práctico es obligatorio para obtener la certificación MARA.
 ## [![alert-1.png](https://i.postimg.cc/kXryfM9b/alert-1.png)](https://postimg.cc/RqRf0BWS)  Próximamente se incluiran otros modulos [![alert-1.png](https://i.postimg.cc/kXryfM9b/alert-1.png)](https://postimg.cc/RqRf0BWS)
 
